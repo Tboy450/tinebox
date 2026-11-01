@@ -1,0 +1,46 @@
+{
+  "date": "2026-10-27",
+  "printer": "Snapmaker U1",
+  "nozzle_mm": 0.4,
+  "units": "mm",
+  "tine_thickness_mm": 1.2,
+  "tine_width_mm": 3.2,
+  "sample_free_lengths_mm": [
+    26.0,
+    22.0,
+    18.0
+  ],
+  "sample_pitch_status": "unassigned; measure after clamping",
+  "material_proxies_for_optional_song": {
+    "PETG": {
+      "E": 1700000000.0,
+      "rho": 1270
+    },
+    "PLA": {
+      "E": 3100000000.0,
+      "rho": 1240
+    }
+  },
+  "manual_size_mm": [
+    80.0,
+    50.0,
+    4.0
+  ],
+  "slider_size_mm": [
+    80.0,
+    64.0,
+    14.0
+  ],
+  "pick_lifts_mm": [
+    -0.2,
+    0.0,
+    0.2,
+    0.4
+  ],
+  "nominal_twinkle_frequencies_Hz": {
+    "C5": 523.2511306,
+    "G5": 783.990872,
+    "A5": 880.0
+  },
+  "manual_cantilever_clearance_below_mm": 2.8
+}

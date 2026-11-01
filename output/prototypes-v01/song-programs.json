@@ -1,0 +1,404 @@
+{
+  "twinkle": {
+    "title": "Twinkle, Twinkle - opening two phrases",
+    "notes": [
+      "C5",
+      "C5",
+      "G5",
+      "G5",
+      "A5",
+      "A5",
+      "G5",
+      "F5",
+      "F5",
+      "E5",
+      "E5",
+      "D5",
+      "D5",
+      "C5"
+    ],
+    "ticks": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "seconds_per_tick": 0.6,
+    "loop_rest_ticks": 2,
+    "source": "https://www.mutopiaproject.org/ftp/MozartWA/KV265/guitar-duo-complete/guitar-duo-complete-a4.pdf",
+    "source_detail": "Printed page 7, section 9 Allegro/Thema; relative melody transposed to C5; accompaniment and ornamentation omitted.",
+    "events": [
+      {
+        "note": "C5",
+        "tick": 0,
+        "duration_ticks": 1,
+        "frequency_Hz": 523.2511306011972
+      },
+      {
+        "note": "C5",
+        "tick": 1,
+        "duration_ticks": 1,
+        "frequency_Hz": 523.2511306011972
+      },
+      {
+        "note": "G5",
+        "tick": 2,
+        "duration_ticks": 1,
+        "frequency_Hz": 783.9908719634985
+      },
+      {
+        "note": "G5",
+        "tick": 3,
+        "duration_ticks": 1,
+        "frequency_Hz": 783.9908719634985
+      },
+      {
+        "note": "A5",
+        "tick": 4,
+        "duration_ticks": 1,
+        "frequency_Hz": 880.0
+      },
+      {
+        "note": "A5",
+        "tick": 5,
+        "duration_ticks": 1,
+        "frequency_Hz": 880.0
+      },
+      {
+        "note": "G5",
+        "tick": 6,
+        "duration_ticks": 2,
+        "frequency_Hz": 783.9908719634985
+      },
+      {
+        "note": "F5",
+        "tick": 8,
+        "duration_ticks": 1,
+        "frequency_Hz": 698.4564628660078
+      },
+      {
+        "note": "F5",
+        "tick": 9,
+        "duration_ticks": 1,
+        "frequency_Hz": 698.4564628660078
+      },
+      {
+        "note": "E5",
+        "tick": 10,
+        "duration_ticks": 1,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "E5",
+        "tick": 11,
+        "duration_ticks": 1,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "D5",
+        "tick": 12,
+        "duration_ticks": 1,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "D5",
+        "tick": 13,
+        "duration_ticks": 1,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "C5",
+        "tick": 14,
+        "duration_ticks": 2,
+        "frequency_Hz": 523.2511306011972
+      }
+    ],
+    "event_count": 14,
+    "unique_pitch_count": 6,
+    "total_ticks": 16,
+    "minimum_linear_pitch_mm": 5.0,
+    "linear_span_mm": 70.0,
+    "peg_angles_degrees": [
+      18.947368,
+      37.894737,
+      56.842105,
+      75.789474,
+      94.736842,
+      113.684211,
+      132.631579,
+      170.526316,
+      189.473684,
+      208.421053,
+      227.368421,
+      246.315789,
+      265.263158,
+      284.210526
+    ]
+  },
+  "ode": {
+    "title": "Ode to Joy - opening four bars",
+    "notes": [
+      "E5",
+      "E5",
+      "F5",
+      "G5",
+      "G5",
+      "F5",
+      "E5",
+      "D5",
+      "C5",
+      "C5",
+      "D5",
+      "E5",
+      "E5",
+      "D5",
+      "D5"
+    ],
+    "ticks": [
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      2,
+      3,
+      1,
+      4
+    ],
+    "seconds_per_tick": 0.3,
+    "loop_rest_ticks": 4,
+    "source": "https://www.mutopiaproject.org/ftp/BeethovenLv/ode/ode-a4.pdf",
+    "source_detail": "First four bars, upper melody, transposed from G major to C major and moved to C5-G5; accompaniment omitted.",
+    "events": [
+      {
+        "note": "E5",
+        "tick": 0,
+        "duration_ticks": 2,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "E5",
+        "tick": 2,
+        "duration_ticks": 2,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "F5",
+        "tick": 4,
+        "duration_ticks": 2,
+        "frequency_Hz": 698.4564628660078
+      },
+      {
+        "note": "G5",
+        "tick": 6,
+        "duration_ticks": 2,
+        "frequency_Hz": 783.9908719634985
+      },
+      {
+        "note": "G5",
+        "tick": 8,
+        "duration_ticks": 2,
+        "frequency_Hz": 783.9908719634985
+      },
+      {
+        "note": "F5",
+        "tick": 10,
+        "duration_ticks": 2,
+        "frequency_Hz": 698.4564628660078
+      },
+      {
+        "note": "E5",
+        "tick": 12,
+        "duration_ticks": 2,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "D5",
+        "tick": 14,
+        "duration_ticks": 2,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "C5",
+        "tick": 16,
+        "duration_ticks": 2,
+        "frequency_Hz": 523.2511306011972
+      },
+      {
+        "note": "C5",
+        "tick": 18,
+        "duration_ticks": 2,
+        "frequency_Hz": 523.2511306011972
+      },
+      {
+        "note": "D5",
+        "tick": 20,
+        "duration_ticks": 2,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "E5",
+        "tick": 22,
+        "duration_ticks": 2,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "E5",
+        "tick": 24,
+        "duration_ticks": 3,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "D5",
+        "tick": 27,
+        "duration_ticks": 1,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "D5",
+        "tick": 28,
+        "duration_ticks": 4,
+        "frequency_Hz": 587.3295358348151
+      }
+    ],
+    "event_count": 15,
+    "unique_pitch_count": 5,
+    "total_ticks": 32,
+    "minimum_linear_pitch_mm": 5.0,
+    "linear_span_mm": 140.0,
+    "peg_angles_degrees": [
+      9.72973,
+      29.189189,
+      48.648649,
+      68.108108,
+      87.567568,
+      107.027027,
+      126.486486,
+      145.945946,
+      165.405405,
+      184.864865,
+      204.324324,
+      223.783784,
+      243.243243,
+      272.432432,
+      282.162162
+    ]
+  },
+  "elise": {
+    "title": "Fur Elise - opening nine-note hook",
+    "notes": [
+      "E5",
+      "D#5",
+      "E5",
+      "D#5",
+      "E5",
+      "B4",
+      "D5",
+      "C5",
+      "A4"
+    ],
+    "ticks": [
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      1,
+      2
+    ],
+    "seconds_per_tick": 0.25,
+    "loop_rest_ticks": 2,
+    "source": "https://www.mutopiaproject.org/ftp/BeethovenLv/WoO59/fur_Elise_WoO59/fur_Elise_WoO59-a4.pdf",
+    "source_detail": "First nine upper melody events; accompaniment omitted; A4 held for an eighth-note unit, followed by an arranged loop pause.",
+    "events": [
+      {
+        "note": "E5",
+        "tick": 0,
+        "duration_ticks": 1,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "D#5",
+        "tick": 1,
+        "duration_ticks": 1,
+        "frequency_Hz": 622.2539674441618
+      },
+      {
+        "note": "E5",
+        "tick": 2,
+        "duration_ticks": 1,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "D#5",
+        "tick": 3,
+        "duration_ticks": 1,
+        "frequency_Hz": 622.2539674441618
+      },
+      {
+        "note": "E5",
+        "tick": 4,
+        "duration_ticks": 1,
+        "frequency_Hz": 659.2551138257398
+      },
+      {
+        "note": "B4",
+        "tick": 5,
+        "duration_ticks": 1,
+        "frequency_Hz": 493.8833012561241
+      },
+      {
+        "note": "D5",
+        "tick": 6,
+        "duration_ticks": 1,
+        "frequency_Hz": 587.3295358348151
+      },
+      {
+        "note": "C5",
+        "tick": 7,
+        "duration_ticks": 1,
+        "frequency_Hz": 523.2511306011972
+      },
+      {
+        "note": "A4",
+        "tick": 8,
+        "duration_ticks": 2,
+        "frequency_Hz": 440.0
+      }
+    ],
+    "event_count": 9,
+    "unique_pitch_count": 6,
+    "total_ticks": 10,
+    "minimum_linear_pitch_mm": 5.0,
+    "linear_span_mm": 40.0,
+    "peg_angles_degrees": [
+      27.692308,
+      55.384615,
+      83.076923,
+      110.769231,
+      138.461538,
+      166.153846,
+      193.846154,
+      221.538462,
+      249.230769
+    ]
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "parts": [
+    {
+      "part": "S2_01_common_deck",
+      "size_mm": [
+        184.0,
+        66.0,
+        12.0
+      ],
+      "volume_mm3": 57207.713,
+      "triangles": 724,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "0ea52c44f3cd0321cbba135989d0463b841ddec48de22addac4184a18e5aa19c"
+    },
+    {
+      "part": "S2_02_clamp_bar",
+      "size_mm": [
+        164.0,
+        8.0,
+        2.0
+      ],
+      "volume_mm3": 2587.741,
+      "triangles": 532,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "881ca7275a8c62e8c3d86281f31456ed7996a6d30b82ddf650825f8df6bf6583"
+    },
+    {
+      "part": "S2_03_carriage",
+      "size_mm": [
+        14.0,
+        15.3,
+        9.3
+      ],
+      "volume_mm3": 751.761,
+      "triangles": 580,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "d0531af60621971c76e72f2d042a911a632c931dccf63cf7bcd82074854e184b"
+    },
+    {
+      "part": "S2_04_pick_lift_0p0",
+      "size_mm": [
+        6.0,
+        7.9,
+        1.6
+      ],
+      "volume_mm3": 43.542,
+      "triangles": 288,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "d1b8e91bb71efbd4e292757dd20959e06a50d5ee42c76d71e4a1c1444bb0ee6b"
+    },
+    {
+      "part": "S2_04_pick_lift_0p2",
+      "size_mm": [
+        6.0,
+        7.9,
+        1.6
+      ],
+      "volume_mm3": 44.054,
+      "triangles": 288,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "6450bac8dcfe4bfad1d300352bb2d661d6ba33604243ba42634264370a251c21"
+    },
+    {
+      "part": "S2_04_pick_lift_0p4",
+      "size_mm": [
+        6.0,
+        7.9,
+        1.6
+      ],
+      "volume_mm3": 44.566,
+      "triangles": 288,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "b5d51af8cf79d1a263a2fd24491aac3b39017985663279e4949ddb16bf36b6eb"
+    },
+    {
+      "part": "S2_05_twinkle_comb_PETG",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 7894.043,
+      "triangles": 868,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "ccee9746c72c3a305180e3ba0ecd4ab11de3143039657a8c102ce6c3bc3d5a44"
+    },
+    {
+      "part": "S2_05_ode_comb_PETG",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 8029.609,
+      "triangles": 892,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "670d775d8ee6db52275e6c93e6230a7c0357e64a3576e117c9914c7ca64bac7a"
+    },
+    {
+      "part": "S2_05_elise_comb_PETG",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 6811.271,
+      "triangles": 748,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "299b2fd42da9256a4d9080a3c8e896205ffe3b37891982173127f3c56a1ab5dd"
+    },
+    {
+      "part": "S2_00_calibration_comb_PETG",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 5782.467,
+      "triangles": 604,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "349de78a3d7d03b8e47c6fcb9916b5d66055c9f94811d095dce046eb60619cca"
+    },
+    {
+      "part": "S2_05_twinkle_comb_PLA",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 7505.449,
+      "triangles": 868,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "2e5e236dc09cc9fab18695b0aeb10f94493c70158a9c61ee20e233a98f3ee63b"
+    },
+    {
+      "part": "S2_05_ode_comb_PLA",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 7603.35,
+      "triangles": 892,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "6c633ed3d54dc6c3ccac64866b3b93a62d85c799ded085363bcc71eca7f80832"
+    },
+    {
+      "part": "S2_05_elise_comb_PLA",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 6542.554,
+      "triangles": 748,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "12a85539e131104982d0ce025f4950c016609e249de88225f2ccf1396fd13217"
+    },
+    {
+      "part": "S2_00_calibration_comb_PLA",
+      "size_mm": [
+        164.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 5703.328,
+      "triangles": 604,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "412a88b8359766073d1c4834e47582825859280961e165d8fbe91a81198093b4"
+    },
+    {
+      "part": "P1_02_shaft",
+      "size_mm": [
+        6.0,
+        6.0,
+        90.0
+      ],
+      "volume_mm3": 2540.604,
+      "triangles": 252,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "3c8530389939e6741d071c16b44c878246e507f0a1616f4c02bac5d335fa036e"
+    },
+    {
+      "part": "P1_03_single_peg_drum",
+      "size_mm": [
+        30.0,
+        30.0,
+        46.0
+      ],
+      "volume_mm3": 20223.935,
+      "triangles": 864,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "fbc80e0da9618437fbcf23ff75e5829fe481417a8dc45aa2a6513f1ca48abc60"
+    },
+    {
+      "part": "P1_03_single_tooth_drum",
+      "size_mm": [
+        30.0,
+        30.0,
+        46.0
+      ],
+      "volume_mm3": 20224.046,
+      "triangles": 788,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "d8c6e18ec08b0bee3608e1a395df20ecd0381a7931b31321df9c1e2f80aeac97"
+    },
+    {
+      "part": "P1_04_washer_print_2",
+      "size_mm": [
+        10.0,
+        10.0,
+        1.0
+      ],
+      "volume_mm3": 44.257,
+      "triangles": 512,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "105f476c8be1b36a7e9a19bd0a03f8c822f4355438b99cdfeaa5d283da741d83"
+    },
+    {
+      "part": "P1_05_shaft_collar_print_2",
+      "size_mm": [
+        12.0,
+        12.0,
+        6.0
+      ],
+      "volume_mm3": 470.929,
+      "triangles": 820,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "ed5b04d3f4ac46e2dfebe647a2dec0178223f8a6499f5a3bc8f7f915faab4e92"
+    },
+    {
+      "part": "P1_07_C5_tine_PETG",
+      "size_mm": [
+        20.0,
+        37.0,
+        4.0
+      ],
+      "volume_mm3": 753.182,
+      "triangles": 556,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "184ee98f8e815259990ef2b600bf38b5f5a993a134786088c48cee48a93a19ea"
+    },
+    {
+      "part": "P1_07_C5_tine_PLA",
+      "size_mm": [
+        20.0,
+        37.0,
+        4.0
+      ],
+      "volume_mm3": 721.828,
+      "triangles": 556,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "858cc200237764a62af5d0a0c219d1869e5fa6c0cefda537d650db1c93ddd749"
+    },
+    {
+      "part": "P1_08_clamp_bar",
+      "size_mm": [
+        20.0,
+        8.0,
+        2.0
+      ],
+      "volume_mm3": 283.742,
+      "triangles": 532,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "f3255f753bcb537955034857c5e792bc7d6b60d5fcc57593d2ae34694d2f24ad"
+    },
+    {
+      "part": "P1_06_root_stand_PETG",
+      "size_mm": [
+        30.0,
+        16.297,
+        26.1
+      ],
+      "volume_mm3": 8433.092,
+      "triangles": 1638,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "f1533872a2c0b584c3b26eea1e200f68578eb5b6944f7a591f5fdb2135b00dd2"
+    },
+    {
+      "part": "P1_06_root_stand_PLA",
+      "size_mm": [
+        30.0,
+        12.797,
+        26.1
+      ],
+      "volume_mm3": 6606.433,
+      "triangles": 1638,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "abbd2662b6e2e58218b7cfbc044f257f12f7e65ead94bde64cd63644b623bbdd"
+    },
+    {
+      "part": "P1_01_bearing_deck",
+      "size_mm": [
+        84.0,
+        66.0,
+        29.0
+      ],
+      "volume_mm3": 28165.829,
+      "triangles": 1260,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "f613e0d8afeb7790f182a0b5e1dbe957e1cb5430e8d7b10a42ac7559f95b2072"
+    },
+    {
+      "part": "00_fit_coupon_6p2_6p4_6p6_bores",
+      "size_mm": [
+        64.0,
+        20.0,
+        5.0
+      ],
+      "volume_mm3": 5917.913,
+      "triangles": 792,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "4b0e24590e1c97c928d875cd2eeb66af00cc8c69faeb590d6606756ea6693d53"
+    },
+    {
+      "part": "00_compact_tuning_sample_PETG",
+      "size_mm": [
+        60.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 2454.468,
+      "triangles": 604,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "ce45ff92df7f6d5c6f75abe5e92b85ab5eb4191e0cf3b8d9cfd4963046aae076"
+    },
+    {
+      "part": "00_compact_tuning_sample_PLA",
+      "size_mm": [
+        60.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 2375.328,
+      "triangles": 604,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "6a03a4b0da52b635915bc8d6e37034d02273482f1f70c2863a686c832c8fadca"
+    },
+    {
+      "part": "W1_LAYOUT_rotating_tine_wheel_PETG",
+      "size_mm": [
+        98.0,
+        98.0,
+        4.0
+      ],
+      "volume_mm3": 6939.043,
+      "triangles": 1444,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "8e21ca42827a33f6b262187845ba64954b91ea6439d09c5b57daa19bd46bdfbd"
+    },
+    {
+      "part": "T1_LAYOUT_rotating_tine_cylinder_PETG",
+      "size_mm": [
+        30.0,
+        30.0,
+        52.0
+      ],
+      "volume_mm3": 17847.336,
+      "triangles": 936,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "3ecae2733feed6619ac573cd46dded1be88f88b28fb520d2608c01113b4b0630"
+    },
+    {
+      "part": "W1_LAYOUT_rotating_tine_wheel_PLA",
+      "size_mm": [
+        98.0,
+        98.0,
+        4.0
+      ],
+      "volume_mm3": 6751.135,
+      "triangles": 1446,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "506acbff447961c250e713111fdc723601e37c0a2dec0a436709882be0f33aa7"
+    },
+    {
+      "part": "T1_LAYOUT_rotating_tine_cylinder_PLA",
+      "size_mm": [
+        30.0,
+        30.0,
+        52.0
+      ],
+      "volume_mm3": 17615.476,
+      "triangles": 936,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "88c58429dd648b23d1b4a778d44500840ac65d814e147f33ec26e99602bd1657"
+    },
+    {
+      "part": "W1_LAYOUT_wheel_carrier",
+      "size_mm": [
+        76.964,
+        88.87,
+        1.6
+      ],
+      "volume_mm3": 1811.009,
+      "triangles": 1208,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "12b24149de675537afbafd6fc03ee5a16d5b33ce4304d14c5a25cfc450b510b3"
+    }
+  ],
+  "checks": {
+    "units": "mm",
+    "physical_validation": false,
+    "checks": [
+      {
+        "system": "S2",
+        "x_mm": 17,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 17,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 17,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 22,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 22,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 22,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 57,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 57,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 57,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 92,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 92,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 92,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 162,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 162,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 162,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 167,
+        "pair": "deck_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 167,
+        "pair": "carriage_to_pick",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "x_mm": 167,
+        "pair": "comb_to_carriage",
+        "intersection_mm3": 0.0
+      },
+      {
+        "system": "S2",
+        "pair": "pick_to_tine_intended_deflection",
+        "intersection_mm3": 0.0639999186197618,
+        "nominal_lift_mm": 0.2,
+        "status": "intentional elastic-contact interference; no deformation simulation"
+      },
+      {
+        "system": "P1",
+        "drum": "peg",
+        "angle_samples": 36,
+        "unintended_fixed_body_intersection_mm3": 0,
+        "maximum_intended_tine_intersection_mm3": 0.2981587327296668,
+        "nominal_lift_mm": 0.3,
+        "status": "rigid geometry screening only; compliant release must be observed physically"
+      },
+      {
+        "system": "P1",
+        "drum": "tooth",
+        "angle_samples": 36,
+        "unintended_fixed_body_intersection_mm3": 0,
+        "maximum_intended_tine_intersection_mm3": 0.3119996414166053,
+        "nominal_lift_mm": 0.3,
+        "status": "rigid geometry screening only; compliant release must be observed physically"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+# Local-only material: personal notes, emails, reference photos and score files
+sources/
+output/lab-project-package/
+build_lab_package.py
+build_review.py
+output/TINEBOX-review-notes.md
+output/pdf/TINEBOX-concept-accuracy-review.pdf
+
+# Downloaded libraries and caches
+tmp/
+__pycache__/
+*.pyc

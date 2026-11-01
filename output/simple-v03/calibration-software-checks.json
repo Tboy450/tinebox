@@ -1,0 +1,37 @@
+{
+  "scope": "Synthetic software tests only. No physical measurements exist. Synthetic mesh remains in tmp, outside the print package.",
+  "checks": [
+    {
+      "case": "unconfirmed blank template",
+      "passed": true
+    },
+    {
+      "case": "confirmed but missing measurements",
+      "passed": true
+    },
+    {
+      "case": "synthetic inverse-square recovery",
+      "passed": true
+    },
+    {
+      "case": "one doubled harmonic",
+      "passed": true
+    },
+    {
+      "case": "out of fixture range",
+      "passed": true
+    },
+    {
+      "case": "insufficient distinct lengths",
+      "passed": true
+    },
+    {
+      "case": "synthetic mesh export; never a measured song comb",
+      "passed": true
+    },
+    {
+      "case": "package CRC and 14 STL inventory",
+      "passed": true
+    }
+  ]
+}

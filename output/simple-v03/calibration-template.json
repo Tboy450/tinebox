@@ -1,0 +1,22 @@
+{
+  "material": "PLA",
+  "fixture": "A_manual_v02_v03",
+  "tine_thickness_mm": 1.2,
+  "tine_width_mm": 3.2,
+  "fundamentals_checked": false,
+  "print_settings_notes": "Record layer height, orientation, process and mounting here. Measure each material separately.",
+  "measurements": [
+    {
+      "free_length_mm": 26,
+      "fundamental_Hz": null
+    },
+    {
+      "free_length_mm": 22,
+      "fundamental_Hz": null
+    },
+    {
+      "free_length_mm": 18,
+      "fundamental_Hz": null
+    }
+  ]
+}

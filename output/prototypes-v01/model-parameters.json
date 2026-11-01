@@ -1,0 +1,65 @@
+{
+  "printer": "Snapmaker U1",
+  "nozzle_mm": 0.4,
+  "units": "mm",
+  "material_proxies": {
+    "PETG": {
+      "E": 1700000000.0,
+      "rho": 1270
+    },
+    "PLA": {
+      "E": 3100000000.0,
+      "rho": 1240
+    }
+  },
+  "tine_thickness_mm": 1.2,
+  "tine_width_mm": 3.2,
+  "mesh_cleanup_tolerance_mm": 0.0001,
+  "slider": {
+    "deck_width_mm": 184.0,
+    "deck_depth_mm": 66.0,
+    "tip_y_mm": 44.0,
+    "tine_top_z_mm": 8.0,
+    "rail_side_clearance_mm": 0.3,
+    "rail_top_clearance_mm": 0.3,
+    "default_lift_mm": 0.2
+  },
+  "cylinder": {
+    "radius_mm": 12.0,
+    "axis_y_mm": 45.0,
+    "axis_z_mm": 20.0,
+    "pin_height_mm": 1.2,
+    "default_lift_mm": 0.3,
+    "shaft_diameter_mm": 6,
+    "bore_mm": 6.6,
+    "tine_bottom_z_mm": 32.900000000000006
+  },
+  "rotating_tines": {
+    "status": "layout only; fixed plucker and support assembly pending",
+    "notes": [
+      "C5",
+      "C5",
+      "G5",
+      "G5",
+      "A5",
+      "A5",
+      "G5"
+    ],
+    "onset_angles_degrees": [
+      0,
+      36,
+      72,
+      108,
+      144,
+      180,
+      216
+    ],
+    "total_ticks_per_revolution": 10,
+    "wheel_outside_diameter_mm": 98,
+    "wheel_tip_radius_mm": 18,
+    "wheel_tine_thickness_mm": 1.2,
+    "cylinder_length_mm": 52,
+    "cylinder_tip_station_x_mm": 48,
+    "cylinder_tine_thickness_mm": 1.2
+  }
+}

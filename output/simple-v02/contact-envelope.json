@@ -1,0 +1,3206 @@
+[
+  {
+    "relative_pick_x_mm": -4.0,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.99,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.98,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.97,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.96,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.95,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.94,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.93,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.92,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.91,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.9,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.89,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.88,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.87,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.86,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.85,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.84,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.83,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.82,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.81,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.8,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.79,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.78,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.77,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.76,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.75,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.74,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.73,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.72,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.71,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.7,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.69,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.68,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.67,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.66,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.65,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.64,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.63,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.62,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.61,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.6,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.59,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.58,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.57,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.56,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.55,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.54,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.53,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.52,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.51,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.5,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.49,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.48,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.47,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.46,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.45,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.44,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.43,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.42,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.41,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.4,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.39,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.38,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.37,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.36,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.35,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.34,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.33,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.32,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.31,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.3,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.29,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.28,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.27,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.26,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.25,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.24,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.23,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.22,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.21,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.2,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.19,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.18,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.17,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.16,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.15,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.14,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.13,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.12,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.11,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.1,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.09,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.08,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.07,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.06,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.05,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.04,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.03,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.02,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.01,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -3.0,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.99,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.98,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.97,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.96,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.95,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.94,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.93,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.92,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.91,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.9,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.89,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.88,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.87,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.86,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.85,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.84,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.83,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.82,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.81,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.8,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.79,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.78,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.77,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.76,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.75,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.74,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.73,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.72,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.71,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.7,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.69,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.68,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.67,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.66,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.65,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.64,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.63,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.62,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.61,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.6,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.59,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.58,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.57,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.56,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.55,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.54,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.53,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.52,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.51,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.5,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.49,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.48,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.47,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.46,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.45,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.44,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.43,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.42,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.41,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.4,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.39,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.38,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.37,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.36,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.35,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.34,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.33,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.32,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.31,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.3,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.29,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.28,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.27,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.26,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.25,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.24,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.23,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.22,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.21,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.2,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.19,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.18,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.17,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.16,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.15,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.14,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.13,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.12,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.11,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.1,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.09,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.08,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.07,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.06,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.05,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.04,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.03,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.02,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.01,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -2.0,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.99,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.98,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.97,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.96,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.95,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.94,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.93,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.92,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.91,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.9,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.89,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.88,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.87,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.86,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.85,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.84,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.83,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.82,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.81,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.8,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.79,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.78,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.77,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.76,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.75,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.74,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.73,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.72,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.71,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.7,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.69,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.68,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.67,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.66,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.65,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.64,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.63,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.62,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.61,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.6,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.59,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.58,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.57,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.56,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.55,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.54,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.53,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.52,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.51,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.5,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.49,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.48,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.47,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.46,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.45,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.44,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.43,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.42,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.41,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.4,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.39,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.38,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.37,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.36,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.35,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.34,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": -1.33,
+    "nominal_tine_lift_mm": 0.00125
+  },
+  {
+    "relative_pick_x_mm": -1.32,
+    "nominal_tine_lift_mm": 0.005
+  },
+  {
+    "relative_pick_x_mm": -1.31,
+    "nominal_tine_lift_mm": 0.00875
+  },
+  {
+    "relative_pick_x_mm": -1.3,
+    "nominal_tine_lift_mm": 0.0125
+  },
+  {
+    "relative_pick_x_mm": -1.29,
+    "nominal_tine_lift_mm": 0.01625
+  },
+  {
+    "relative_pick_x_mm": -1.28,
+    "nominal_tine_lift_mm": 0.02
+  },
+  {
+    "relative_pick_x_mm": -1.27,
+    "nominal_tine_lift_mm": 0.02375
+  },
+  {
+    "relative_pick_x_mm": -1.26,
+    "nominal_tine_lift_mm": 0.0275
+  },
+  {
+    "relative_pick_x_mm": -1.25,
+    "nominal_tine_lift_mm": 0.03125
+  },
+  {
+    "relative_pick_x_mm": -1.24,
+    "nominal_tine_lift_mm": 0.035
+  },
+  {
+    "relative_pick_x_mm": -1.23,
+    "nominal_tine_lift_mm": 0.03875
+  },
+  {
+    "relative_pick_x_mm": -1.22,
+    "nominal_tine_lift_mm": 0.0425
+  },
+  {
+    "relative_pick_x_mm": -1.21,
+    "nominal_tine_lift_mm": 0.04625
+  },
+  {
+    "relative_pick_x_mm": -1.2,
+    "nominal_tine_lift_mm": 0.05
+  },
+  {
+    "relative_pick_x_mm": -1.19,
+    "nominal_tine_lift_mm": 0.05375
+  },
+  {
+    "relative_pick_x_mm": -1.18,
+    "nominal_tine_lift_mm": 0.0575
+  },
+  {
+    "relative_pick_x_mm": -1.17,
+    "nominal_tine_lift_mm": 0.06125
+  },
+  {
+    "relative_pick_x_mm": -1.16,
+    "nominal_tine_lift_mm": 0.065
+  },
+  {
+    "relative_pick_x_mm": -1.15,
+    "nominal_tine_lift_mm": 0.06875
+  },
+  {
+    "relative_pick_x_mm": -1.14,
+    "nominal_tine_lift_mm": 0.0725
+  },
+  {
+    "relative_pick_x_mm": -1.13,
+    "nominal_tine_lift_mm": 0.07625
+  },
+  {
+    "relative_pick_x_mm": -1.12,
+    "nominal_tine_lift_mm": 0.08
+  },
+  {
+    "relative_pick_x_mm": -1.11,
+    "nominal_tine_lift_mm": 0.08375
+  },
+  {
+    "relative_pick_x_mm": -1.1,
+    "nominal_tine_lift_mm": 0.0875
+  },
+  {
+    "relative_pick_x_mm": -1.09,
+    "nominal_tine_lift_mm": 0.09125
+  },
+  {
+    "relative_pick_x_mm": -1.08,
+    "nominal_tine_lift_mm": 0.095
+  },
+  {
+    "relative_pick_x_mm": -1.07,
+    "nominal_tine_lift_mm": 0.09875
+  },
+  {
+    "relative_pick_x_mm": -1.06,
+    "nominal_tine_lift_mm": 0.1025
+  },
+  {
+    "relative_pick_x_mm": -1.05,
+    "nominal_tine_lift_mm": 0.10625
+  },
+  {
+    "relative_pick_x_mm": -1.04,
+    "nominal_tine_lift_mm": 0.11
+  },
+  {
+    "relative_pick_x_mm": -1.03,
+    "nominal_tine_lift_mm": 0.11375
+  },
+  {
+    "relative_pick_x_mm": -1.02,
+    "nominal_tine_lift_mm": 0.1175
+  },
+  {
+    "relative_pick_x_mm": -1.01,
+    "nominal_tine_lift_mm": 0.12125
+  },
+  {
+    "relative_pick_x_mm": -1.0,
+    "nominal_tine_lift_mm": 0.125
+  },
+  {
+    "relative_pick_x_mm": -0.99,
+    "nominal_tine_lift_mm": 0.12875
+  },
+  {
+    "relative_pick_x_mm": -0.98,
+    "nominal_tine_lift_mm": 0.1325
+  },
+  {
+    "relative_pick_x_mm": -0.97,
+    "nominal_tine_lift_mm": 0.13625
+  },
+  {
+    "relative_pick_x_mm": -0.96,
+    "nominal_tine_lift_mm": 0.14
+  },
+  {
+    "relative_pick_x_mm": -0.95,
+    "nominal_tine_lift_mm": 0.14375
+  },
+  {
+    "relative_pick_x_mm": -0.94,
+    "nominal_tine_lift_mm": 0.1475
+  },
+  {
+    "relative_pick_x_mm": -0.93,
+    "nominal_tine_lift_mm": 0.15125
+  },
+  {
+    "relative_pick_x_mm": -0.92,
+    "nominal_tine_lift_mm": 0.155
+  },
+  {
+    "relative_pick_x_mm": -0.91,
+    "nominal_tine_lift_mm": 0.15875
+  },
+  {
+    "relative_pick_x_mm": -0.9,
+    "nominal_tine_lift_mm": 0.1625
+  },
+  {
+    "relative_pick_x_mm": -0.89,
+    "nominal_tine_lift_mm": 0.16625
+  },
+  {
+    "relative_pick_x_mm": -0.88,
+    "nominal_tine_lift_mm": 0.17
+  },
+  {
+    "relative_pick_x_mm": -0.87,
+    "nominal_tine_lift_mm": 0.17375
+  },
+  {
+    "relative_pick_x_mm": -0.86,
+    "nominal_tine_lift_mm": 0.1775
+  },
+  {
+    "relative_pick_x_mm": -0.85,
+    "nominal_tine_lift_mm": 0.18125
+  },
+  {
+    "relative_pick_x_mm": -0.84,
+    "nominal_tine_lift_mm": 0.185
+  },
+  {
+    "relative_pick_x_mm": -0.83,
+    "nominal_tine_lift_mm": 0.18875
+  },
+  {
+    "relative_pick_x_mm": -0.82,
+    "nominal_tine_lift_mm": 0.1925
+  },
+  {
+    "relative_pick_x_mm": -0.81,
+    "nominal_tine_lift_mm": 0.19625
+  },
+  {
+    "relative_pick_x_mm": -0.8,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.79,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.78,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.77,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.76,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.75,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.74,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.73,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.72,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.71,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.7,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.69,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.68,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.67,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.66,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.65,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.64,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.63,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.62,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.61,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.6,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.59,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.58,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.57,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.56,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.55,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.54,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.53,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.52,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.51,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.5,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.49,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.48,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.47,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.46,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.45,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.44,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.43,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.42,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.41,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.4,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.39,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.38,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.37,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.36,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.35,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.34,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.33,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.32,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.31,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.3,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.29,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.28,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.27,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.26,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.25,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.24,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.23,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.22,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.21,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.2,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.19,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.18,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.17,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.16,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.15,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.14,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.13,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.12,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.11,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.1,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.09,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.08,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.07,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.06,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.05,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.04,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.03,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.02,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.01,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": -0.0,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.01,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.02,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.03,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.04,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.05,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.06,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.07,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.08,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.09,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.1,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.11,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.12,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.13,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.14,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.15,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.16,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.17,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.18,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.19,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.2,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.21,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.22,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.23,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.24,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.25,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.26,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.27,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.28,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.29,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.3,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.31,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.32,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.33,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.34,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.35,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.36,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.37,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.38,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.39,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.4,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.41,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.42,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.43,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.44,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.45,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.46,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.47,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.48,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.49,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.5,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.51,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.52,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.53,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.54,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.55,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.56,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.57,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.58,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.59,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.6,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.61,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.62,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.63,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.64,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.65,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.66,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.67,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.68,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.69,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.7,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.71,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.72,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.73,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.74,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.75,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.76,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.77,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.78,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.79,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.8,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.81,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.82,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.83,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.84,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.85,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.86,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.87,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.88,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.89,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.9,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.91,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.92,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.93,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.94,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.95,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.96,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.97,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.98,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 0.99,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.0,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.01,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.02,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.03,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.04,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.05,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.06,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.07,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.08,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.09,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.1,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.11,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.12,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.13,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.14,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.15,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.16,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.17,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.18,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.19,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.2,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.21,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.22,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.23,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.24,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.25,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.26,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.27,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.28,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.29,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.3,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.31,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.32,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.33,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.34,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.35,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.36,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.37,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.38,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.39,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.4,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.41,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.42,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.43,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.44,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.45,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.46,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.47,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.48,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.49,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.5,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.51,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.52,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.53,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.54,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.55,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.56,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.57,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.58,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.59,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.6,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.61,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.62,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.63,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.64,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.65,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.66,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.67,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.68,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.69,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.7,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.71,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.72,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.73,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.74,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.75,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.76,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.77,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.78,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.79,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.8,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.81,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.82,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.83,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.84,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.85,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.86,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.87,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.88,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.89,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.9,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.91,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.92,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.93,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.94,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.95,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.96,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.97,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.98,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 1.99,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.0,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.01,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.02,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.03,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.04,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.05,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.06,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.07,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.08,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.09,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.1,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.11,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.12,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.13,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.14,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.15,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.16,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.17,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.18,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.19,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.2,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.21,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.22,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.23,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.24,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.25,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.26,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.27,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.28,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.29,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.3,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.31,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.32,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.33,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.34,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.35,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.36,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.37,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.38,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.39,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.4,
+    "nominal_tine_lift_mm": 0.2
+  },
+  {
+    "relative_pick_x_mm": 2.41,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.42,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.43,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.44,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.45,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.46,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.47,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.48,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.49,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.5,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.51,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.52,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.53,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.54,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.55,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.56,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.57,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.58,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.59,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.6,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.61,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.62,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.63,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.64,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.65,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.66,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.67,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.68,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.69,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.7,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.71,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.72,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.73,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.74,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.75,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.76,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.77,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.78,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.79,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.8,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.81,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.82,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.83,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.84,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.85,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.86,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.87,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.88,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.89,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.9,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.91,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.92,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.93,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.94,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.95,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.96,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.97,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.98,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 2.99,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.0,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.01,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.02,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.03,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.04,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.05,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.06,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.07,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.08,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.09,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.1,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.11,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.12,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.13,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.14,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.15,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.16,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.17,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.18,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.19,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.2,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.21,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.22,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.23,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.24,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.25,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.26,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.27,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.28,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.29,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.3,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.31,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.32,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.33,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.34,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.35,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.36,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.37,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.38,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.39,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.4,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.41,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.42,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.43,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.44,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.45,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.46,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.47,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.48,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.49,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.5,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.51,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.52,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.53,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.54,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.55,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.56,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.57,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.58,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.59,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.6,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.61,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.62,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.63,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.64,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.65,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.66,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.67,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.68,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.69,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.7,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.71,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.72,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.73,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.74,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.75,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.76,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.77,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.78,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.79,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.8,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.81,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.82,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.83,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.84,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.85,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.86,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.87,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.88,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.89,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.9,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.91,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.92,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.93,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.94,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.95,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.96,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.97,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.98,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 3.99,
+    "nominal_tine_lift_mm": 0.0
+  },
+  {
+    "relative_pick_x_mm": 4.0,
+    "nominal_tine_lift_mm": 0.0
+  }
+]

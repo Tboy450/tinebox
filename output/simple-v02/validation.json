@@ -1,0 +1,3037 @@
+{
+  "status": "digital checks only; not sliced or physically validated",
+  "parts": [
+    {
+      "part": "01_shared_three_length_comb_26_22_18mm",
+      "size_mm": [
+        60.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 2331.323,
+      "triangles": 604,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "d9f95cbca14f521476876fe395712215fac810e1fc285b04e794d858f4d4b628"
+    },
+    {
+      "part": "02_shared_clamp_bar",
+      "size_mm": [
+        60.0,
+        8.0,
+        2.0
+      ],
+      "volume_mm3": 923.742,
+      "triangles": 532,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "8898f22b7f25dd7eb133772eb0e0145d9803cf841059cbdaf5ad0e28e2b270d7"
+    },
+    {
+      "part": "A_01_manual_base",
+      "size_mm": [
+        80.0,
+        50.0,
+        4.0
+      ],
+      "volume_mm3": 15799.713,
+      "triangles": 708,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "bd6a7366529406c363c52652b603d15889c8707bd357376ae4393408ee34044b"
+    },
+    {
+      "part": "B_01_dual_rail_base",
+      "size_mm": [
+        80.0,
+        64.0,
+        14.0
+      ],
+      "volume_mm3": 29879.713,
+      "triangles": 740,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "6d418f3eb9e72b7d178e6b7cd7bedc3eb847021a179b095f7f8283569ed66af9"
+    },
+    {
+      "part": "00_M3_fit_coupon",
+      "size_mm": [
+        60.0,
+        24.0,
+        4.0
+      ],
+      "volume_mm3": 5383.912,
+      "triangles": 1644,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "0a5167cd45afe648b1092c4157c99d3dc581ecd82e6e6220e61ddb616959efbb"
+    },
+    {
+      "part": "B_02_bridge_carriage",
+      "size_mm": [
+        14.0,
+        60.6,
+        11.4
+      ],
+      "volume_mm3": 2720.642,
+      "triangles": 1108,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "6d25dd1ba1652933943e941aef8181b939c7c5320222ec2b684ba82aebae0648"
+    },
+    {
+      "part": "B_03_pick_lift_minus_0p2",
+      "size_mm": [
+        8.0,
+        8.7,
+        2.4
+      ],
+      "volume_mm3": 108.16,
+      "triangles": 28,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "8a5f55f894e8a7eea6a261ca8c3441f9081734a2088f627e1348ee22530bcb87"
+    },
+    {
+      "part": "B_03_pick_lift_0p0",
+      "size_mm": [
+        8.0,
+        8.7,
+        2.4
+      ],
+      "volume_mm3": 108.672,
+      "triangles": 28,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "7cfae51b4519ebef4108d6f5e23db582e5219db4086ca60f1d9fd4f624c4cc49"
+    },
+    {
+      "part": "B_03_pick_lift_0p2",
+      "size_mm": [
+        8.0,
+        8.7,
+        2.4
+      ],
+      "volume_mm3": 109.184,
+      "triangles": 28,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "901e0d7061e6a1f254cb80be20c99ca14f283ba59e392e76cde7fc525e0daf8d"
+    },
+    {
+      "part": "B_03_pick_lift_0p4",
+      "size_mm": [
+        8.0,
+        8.7,
+        2.4
+      ],
+      "volume_mm3": 109.696,
+      "triangles": 28,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "76da02d0ac9d4337471470f5e72bd9bc5703929ebae0c565588dd440ebc14b74"
+    },
+    {
+      "part": "OPTIONAL_twinkle_opening_PETG",
+      "size_mm": [
+        60.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 3244.562,
+      "triangles": 700,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "2103c2dc5d9582dab743076e30b652dee7fc5d982ceb525c4049d5da9daa6f8a"
+    },
+    {
+      "part": "OPTIONAL_twinkle_opening_PLA",
+      "size_mm": [
+        60.0,
+        36.0,
+        4.0
+      ],
+      "volume_mm3": 3056.654,
+      "triangles": 700,
+      "watertight": true,
+      "consistent_winding": true,
+      "connected_components": 1,
+      "sha256": "5e8db9da391a45c778c031fb296aec531446dd1a9b730514f426c292758af5ed"
+    }
+  ],
+  "sampled_clearance_checks": [
+    {
+      "check": "carriage_to_deck_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_17.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_17.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_18.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_18.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_19.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_19.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_20.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_20.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_21.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_21.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_22.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_22.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_23.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_23.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_24.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_24.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_25.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_25.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_26.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_26.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_27.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_27.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_28.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_28.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_29.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_29.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_30.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_30.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_31.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_31.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_32.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_32.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_33.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_33.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_34.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_34.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_35.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_35.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_36.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_36.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_37.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_37.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_38.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_38.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_39.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_39.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_40.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_40.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_41.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_41.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_42.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_42.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_43.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_43.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_44.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_44.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_45.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_45.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_46.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_46.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_47.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_47.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_48.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_48.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_49.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_49.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_50.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_50.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_51.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_51.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_52.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_52.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_53.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_53.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_54.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_54.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_55.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_55.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_56.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_56.5",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_deck_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_comb_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_seated_pick_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_pick_screw_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_0_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "carriage_to_clamp_screw_1_x_57.0",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "manual_base_to_comb",
+      "intersection_mm3": 0.0,
+      "passed": true
+    },
+    {
+      "check": "manual_clamp_to_comb",
+      "intersection_mm3": 0.0,
+      "passed": true
+    }
+  ],
+  "support_datums": {
+    "rail_top_z_mm": 14.0,
+    "carriage_roof_underside_z_mm": 14.0,
+    "pick_floor_z_mm": 6.0,
+    "pick_base_bottom_z_mm": 6.0,
+    "front_and_rear_rail_centres_y_mm": [
+      3.0,
+      55.0
+    ],
+    "pick_contact_y_mm": 43.4,
+    "front_rail_reaction_fraction": 0.7769230769230769,
+    "rear_rail_reaction_fraction": 0.22307692307692312,
+    "note": "Ideal static vertical force lies inside the support span. Printed flatness, operator load, rocking and friction remain unmeasured."
+  },
+  "reserved_clamp_head_diameter_mm": 6.0,
+  "reserved_clamp_head_height_mm": 3.2,
+  "contact_model_limit": "Rigid unflexed geometry only. Tine/pick overlap is deliberate; no contact-force, vibration, fatigue or FDM simulation."
+}

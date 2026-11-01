@@ -1,0 +1,12 @@
+{
+  "P1_nominal_lift_mm": 0.3,
+  "P1_two_radial_clearances_mm": [
+    0.3,
+    0.3
+  ],
+  "P1_gravity_settled_lift_mm": -0.3,
+  "S2_nominal_lift_mm": 0.2,
+  "S2_roof_seating_gap_mm": 0.3,
+  "S2_after_seating_lift_mm": -0.1,
+  "decision": "Supersede the old slider and cylinder assemblies as first-build recommendations. Keep rotor layouts as exploration."
+}
